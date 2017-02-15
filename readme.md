@@ -1,3 +1,3 @@
-̨# Documentazio
+# Corso: Padroneggia il potere di Atom
 
-Paragrafo **grassetto**.
+Questo corso mira a insegnare come sia possibile utilizzare al meglio l'editor di codice Atom.
