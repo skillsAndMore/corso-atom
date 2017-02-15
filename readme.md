@@ -3,7 +3,7 @@
 Questo corso mira a farti conoscere come sia possibile utilizzare al meglio l'editor di codice Atom.
 
 ## Lista lezioni
-Ecco le lezioni che compongono l'intero corso e che ti permetteranno di padroneggiare al meglio il potere offerto da Atom.
+Ecco l'elenco delle lezioni che compongono l'intero corso e che ti permetteranno di padroneggiare al meglio il potere offerto da Atom.
 
 1. Installa e scopri Atom
 2. Personalizza il tema per i tuoi gusti
